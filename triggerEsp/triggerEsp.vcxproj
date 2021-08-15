@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5954a305-0e35-41be-8021-4c875167f3f4}</ProjectGuid>
-    <RootNamespace>aim</RootNamespace>
+    <ProjectGuid>{8e97b79b-fb32-49d7-9f65-8da0b3ca4baf}</ProjectGuid>
+    <RootNamespace>triggerEsp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="aim.cpp" />
+    <ClCompile Include="triggerEsp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
